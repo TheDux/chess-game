@@ -1,2 +1,2 @@
 # chess-game
-Xadrez em Java via console
+Xadrez em Java pra rodar no Bash
